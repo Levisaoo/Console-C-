@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\bin\Debug\net8.0\MercadoAtacadao.exe
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\bin\Debug\net8.0\MercadoAtacadao.deps.json
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\bin\Debug\net8.0\MercadoAtacadao.runtimeconfig.json
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\bin\Debug\net8.0\MercadoAtacadao.dll
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\bin\Debug\net8.0\MercadoAtacadao.pdb
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\obj\Debug\net8.0\MercadoAtacadao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\obj\Debug\net8.0\MercadoAtacadao.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\obj\Debug\net8.0\MercadoAtacadao.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\obj\Debug\net8.0\MercadoAtacadao.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\obj\Debug\net8.0\MercadoAtacadao.dll
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\obj\Debug\net8.0\refint\MercadoAtacadao.dll
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\obj\Debug\net8.0\MercadoAtacadao.pdb
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\obj\Debug\net8.0\MercadoAtacadao.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\MercadoAtacadao\MercadoAtacadao\obj\Debug\net8.0\ref\MercadoAtacadao.dll
