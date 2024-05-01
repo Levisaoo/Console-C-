@@ -34,8 +34,6 @@ void RemoveAlgoDaLista()
     Console.WriteLine($"O produto {produtoRemovido} foi removido de sua lista ");
     Thread.Sleep(1000);
     MenuOpcoes();
-
-
 }   
 
 void MenuOpcoes()
